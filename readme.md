@@ -28,5 +28,5 @@ O site funciona como uma **Single Page Application (SPA)**, onde o conteúdo das
 
 ## 👨‍💻 Autor
 
-* **Gabriel de Sousa**
-* **GitHub:** @GabrielSousa2005 (https://github.comGabrielSousa2005)
+* **Gabriel Sousa**
+* **GitHub:** @GabrieSousa2005
